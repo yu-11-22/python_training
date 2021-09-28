@@ -10,23 +10,23 @@
 True
 False
 # 有順序,可變動的列表 List
-[3,4,5]
-["hello","world"]
+[3, 4, 5]
+["hello", "world"]
 # 有順序,不可變動的列表 Tuple
-(3,4,5)
-("hello","world")
+(3, 4, 5)
+("hello", "world")
 # 集合 Set,沒有順序區分
-{3,4,5}
+{3, 4, 5}
 # 字典 Dictionary
-{"apple":"蘋果","data":"資料"}
+{"apple": "蘋果", "data": "資料"}
 # 變數:用來儲存資料的自訂名稱
 # 變數名稱=資料
-x=3
+x = 3
 # print(資料)
 print(x)
-x=True # 取代舊的資料
+x = True  # 取代舊的資料
 print(x)
-x="Hello"
+x = "Hello"
 print(x)
-x={3,4,5}
+x = {3, 4, 5}
 print(x)
