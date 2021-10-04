@@ -5,7 +5,7 @@ while n < 5:
         break
     print(n)  # 印出迴圈中的 n
     n += 1
-print(n)  # 印出迴圈結束後的 n
+print("最後的n:", n)  # 印出迴圈結束後的 n
 # continue 的簡易範例
 n = 0
 for x in [0, 1, 2, 3]:
@@ -13,7 +13,7 @@ for x in [0, 1, 2, 3]:
         continue
     print(x)
     n += 1
-print(n)
+print("最後的n:", n)
 # else 的簡易範例
 sum = 0
 for n in range(11):

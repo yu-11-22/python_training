@@ -11,11 +11,11 @@ multiply(7, 8)
 
 def add(n1, n2):
     print(n1+n2)
-    return n1+n2
+    return n1*n2
 
 
-value = add(6, 8)
-print(value)
+value = add(6, 8)  # 呼叫函式的值
+print(value)       # 放入變數中,則以回傳值為主
 
 
 def minus(n1, n2):
