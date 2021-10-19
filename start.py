@@ -1,6 +1,7 @@
 print("Hello Python")
 # ctrl+c 強制停止驅動程式
 # ctrl+/ 一次註解很多行
+# f"range{i}"  可以在迴圈內用 i 變數
 # path:搜尋模組的路徑
 # split可以把字元拆成字串
 # abs()絕對值
